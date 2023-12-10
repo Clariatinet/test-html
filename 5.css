@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  width: 600px;
+  height: 600px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
